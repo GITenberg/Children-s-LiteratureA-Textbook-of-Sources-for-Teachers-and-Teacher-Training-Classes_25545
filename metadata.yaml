@@ -1,0 +1,34 @@
+_repo: Children-s-LiteratureA-Textbook-of-Sources-for-Teachers-and-Teacher-Training-Classes_25545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Curry, Charles Madison
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '31412'
+    url: http://www.gutenberg.org/2009/agents/31412
+  - agent_name: Clippinger, Erle Elsworth
+    birthdate: 1875
+    gutenberg_agent_id: '31413'
+    url: http://www.gutenberg.org/2009/agents/31413
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Books and reading'
+- !lcsh 'Children''s literature -- Study and teaching'
+- !lcc 'PN'
+title: 'Children''s Literature
+
+  A Textbook of Sources for Teachers and Teacher-Training Classes'
+url: http://www.gutenberg.org/ebooks/25545
