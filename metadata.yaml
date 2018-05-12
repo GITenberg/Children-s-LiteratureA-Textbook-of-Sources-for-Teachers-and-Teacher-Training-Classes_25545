@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '31413'
     url: http://www.gutenberg.org/2009/agents/31413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25545#Children-s-LiteratureA-Textbook-of-Sources-for-Teachers-and-Teacher-Training-Classes
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2008-05-20'
 gutenberg_type: Text
